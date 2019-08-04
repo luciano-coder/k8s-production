@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: client
-        image: multi-client
+        image: lucianoderiu/multi-client
         resources:
           limits:
             memory: "128Mi"

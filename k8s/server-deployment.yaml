@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: server-deployment
-        image: multi-server
+        image: lucianoderiu/multi-server
         resources:
           limits:
             memory: "128Mi"
