@@ -7,3 +7,6 @@ Starting at Section 14 as this is when it starts to go from k8s in dev/test to k
 
 ## Overview
 ![Overview](./docs/overview.jpg)
+
+## Things to try out/learn
+* setup a clustered/HA Redis deployment
